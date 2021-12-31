@@ -18,7 +18,7 @@ class Form extends Component {
         super(props);
         this.state = {
             success: false,
-            avatar_url: "https://discordapp.com/assets/322c936a8c8be1b803cd94861bdfa868.png",
+            avatar_url: "https://cdn.discordapp.com/avatars/878176204992167967/f55b552d99b835c1b2d1a217af99500c.png?size=4096",
             user: {id: null, avatar: null, username: null, discriminator: null, email: null},
             notBanned: false,
             blocked: false,
